@@ -1,4 +1,4 @@
-## Test Doc
+# Test Doc
 
 This is some content.
 
